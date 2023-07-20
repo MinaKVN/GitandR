@@ -1,6 +1,9 @@
-#GITHUB stuff
-library(usethis)
-use_github(protocol = 'https', auth_token = Sys.getenv("GITHUB_PAT"))
+#GITHUB instructions
+#library(usethis)
+#?use_github
+#(create_github_token(scopes = c("repo", "user", "gist", "workflow"),description = "DESCRIBE THE TOKEN'S USE CASE", host = NULL)
+#library(usethis)
+#use_github(protocol = 'https', auth_token = Sys.getenv("GITHUB_PAT"))
 
 # Data manipulation and plotting
 library(dplyr)
