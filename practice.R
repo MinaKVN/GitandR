@@ -1,4 +1,4 @@
-#github instruction
+#github instructions
 #library(usethis)
 #create_github_token(scopes = c("repo", "user", "gist", "workflow"),description = "DESCRIBE THE TOKEN'S USE CASE",host = NULL)
 #edit_r_environ() #to save the token
